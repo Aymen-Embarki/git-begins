@@ -1,0 +1,4 @@
+git clone [url HTTPS du repo]
+git add
+git commit
+git push
